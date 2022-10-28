@@ -1,0 +1,1 @@
+INSERT INTO USER VALUES ('vickram', 'vickstar', 'vick@mail.com', 45648798)
