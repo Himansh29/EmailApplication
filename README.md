@@ -8,5 +8,5 @@ Dependencies used : (1) H2 database, (2) spring web, (3) Spring DataJpa
 
 #Recording of how the peoject shopuld be executed its flow is explained properly please refer it to get clear idea 
 
-#drive link for the video
-https://github.com/Himansh29/EmailApplication
+#drive link for the video reference
+https://drive.google.com/file/d/1df6zyrAe5OTSfQ42H5-X003ZsOdwoFnJ/view?usp=sharing
